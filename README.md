@@ -22,7 +22,7 @@
   <a href="https://t.me/dfvpn07_bot"><img src="https://img.shields.io/badge/подключить-@dfvpn07_bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Бот"></a>
 </p>
 
-Личный VPN-сервер без лагов: покупка и выдача ключа в Telegram за пару минут, оплата картой/СБП/Stars, тарифы от 299 ₽/мес.
+Личный VPN-сервер без лагов: покупка и выдача ключа в Telegram за пару минут, оплата картой/СБП/Stars, тарифы от 150 ₽/мес.
 Подробнее — в репозитории [DF-VPN](https://github.com/Dolov07KBR/DF-VPN) и на [сайте](https://dolov07kbr.github.io).
 
 ---
