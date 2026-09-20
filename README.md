@@ -13,6 +13,7 @@
   <a href="https://dolov07kbr.github.io"><img src="https://img.shields.io/badge/сайт-dolov07kbr.github.io-8b5cf6?style=for-the-badge" alt="Сайт"></a>
   <a href="https://github.com/Dolov07KBR/DF-VPN-Bot"><img src="https://img.shields.io/badge/DF%20VPN%20Bot-aiogram%203-22d3ee?style=for-the-badge" alt="DF VPN Bot"></a>
   <a href="https://github.com/Dolov07KBR/Zapret-Manager-PLUS"><img src="https://img.shields.io/badge/Zapret%20Manager-PLUS-8b5cf6?style=for-the-badge" alt="Zapret Manager PLUS"></a>
+  <a href="https://github.com/Dolov07KBR/DF-Bypass"><img src="https://img.shields.io/badge/DF%20Bypass-DPI%20обходы-22d3ee?style=for-the-badge" alt="DF Bypass"></a>
   <a href="https://github.com/Dolov07KBR/DF_IPTV"><img src="https://img.shields.io/badge/DF_IPTV-M3U-22d3ee?style=for-the-badge" alt="DF IPTV"></a>
 </p>
 
@@ -33,6 +34,7 @@
 |---|---|
 | 🤖 **[DF VPN Bot](https://github.com/Dolov07KBR/DF-VPN-Bot)** | Telegram-бот продажи VPN на **aiogram 3**: ЮKassa (карты/СБП), Telegram Stars, баланс, автовыдача ключей из пула / **3x-ui** / **Marzban**, рефералка, промокоды, тикеты, админ-панель, установка на VPS одной командой |
 | 🧩 **[Zapret Manager PLUS](https://github.com/Dolov07KBR/Zapret-Manager-PLUS)** | Надстройка над Zapret-Manager: диагностика блокировок, статистика стратегий, откат изменений, мастер «что не работает», веб-панель |
+| 🛡️ **[DF-Bypass](https://github.com/Dolov07KBR/DF-Bypass)** | Новые обходы DPI для роутера: обход блокировки **WhatsApp** (включая звонки), новый обход **Telegram**, **игровой обход** и все заблокированные **AI-сервисы**. Работает по Wi-Fi, низкая задержка, установка и откат одной командой |
 | 📺 **[DF_IPTV](https://github.com/Dolov07KBR/DF_IPTV)** | Бесплатные IPTV-плейлисты (M3U): ТВ, фильмы, музыка. Периодически обновляются |
 | 🗽 [vpn-configs-for-russia](https://github.com/Dolov07KBR/vpn-configs-for-russia) | Актуальная подборка бесплатных VPN-конфигураций для РФ (форк, поддерживаю) |
 | 🎬 [VeronaTV](https://github.com/Dolov07KBR/VeronaTV) | Ресурсы и плейлисты для онлайн-просмотра ТВ |
